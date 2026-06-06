@@ -1,6 +1,7 @@
 # gilang_mandiri
 
 A new Flutter project.
+day 1
 
 ## Getting Started
 
