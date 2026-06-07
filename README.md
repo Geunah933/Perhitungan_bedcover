@@ -2,6 +2,7 @@
 
 A new Flutter project.
 day 1
+day 2
 
 ## Getting Started
 
